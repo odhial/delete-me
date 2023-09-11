@@ -16,6 +16,7 @@
 # See LICENSE file for licensing information.
 # *****************************************************************************
 Test1
+Test2
 # Login to GitHub to commit changes and push them to your GitHub account ----
 # Run the following command to login to GitHub using a *personal access token*
 # instead of a password. This is for those using RStudio and are prevented from
